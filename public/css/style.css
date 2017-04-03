@@ -1,0 +1,43 @@
+body {
+   background-image: url('/img/gplaypattern.png');
+}
+
+#home-splash {
+	background: url('/img/airsoft-image2.jpg') no-repeat center center; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#home-splash h1 {
+	color: white;
+	text-shadow: 2px 2px 2px rgba(100, 100, 100, 1);
+}
+
+#home-splash .text-muted {
+	color: white;
+	text-shadow: 2px 2px 2px rgba(100, 100, 100, 1);
+}
+
+#about-splash {
+	background: url('/img/airsoft-image1.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#about-splash h1 {
+	color: white;
+	text-shadow: 2px 2px 2px rgba(100, 100, 100, 1);
+}
+
+#about-splash .text-muted {
+	color: white;
+	text-shadow: 2px 2px 2px rgba(100, 100, 100, 1);
+}
+
+.margin-left {
+	margin-left: 10px !important;
+}
